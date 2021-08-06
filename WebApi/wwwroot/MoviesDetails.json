@@ -1,0 +1,65 @@
+[
+  {
+    "Id": 1,
+    "MovieName": "The salt of the six days",
+    "ImagePath": "./images/1.jpg",
+    "Rating": 30,
+    "Category": "History"
+  },
+  {
+    "Id": 2,
+    "MovieName": "Sammy the fireman",
+    "ImagePath": "./images/2.jpg",
+    "Rating": 4520,
+    "Category": "Children"
+  },
+  {
+    "Id": 3,
+    "MovieName": "The plot",
+    "ImagePath": "./images/3.jpg",
+    "Rating": 451,
+    "Category": "Tension"
+  },
+  {
+    "Id": 4,
+    "MovieName": "Mickey Mouse",
+    "ImagePath": "./images/4.jpg",
+    "Rating": 2,
+    "Category": "Children"
+  },
+  {
+    "Id": 5,
+    "MovieName": "Geography",
+    "ImagePath": "./images/5.jpg",
+    "Rating": 333,
+    "Category": "Science"
+  },
+  {
+    "Id": 6,
+    "MovieName": "In Dudu's garden",
+    "ImagePath": "./images/6.jpg",
+    "Rating": 31,
+    "Category": "Children"
+  },
+  {
+    "Id": 7,
+    "MovieName": "Bob the Builder",
+    "ImagePath": "./images/7.jpg",
+    "Rating": 33,
+    "Category": "Children"
+  },
+  {
+    "Id": 8,
+    "MovieName": "The Ten Lost Tribes",
+    "ImagePath": "./images/8.jpg",
+    "Rating": 4,
+    "Category": "History"
+  },
+  {
+    "Id": 9,
+    "MovieName": "Physics",
+    "ImagePath": "./images/9.jpg",
+    "Rating": 555,
+    "Category": "Science"
+  }
+]
